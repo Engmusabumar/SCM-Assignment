@@ -1,14 +1,15 @@
 SOFTWARE CONFIGURATION MANAGEMENT AND MAINTENANCE ASSIGNMENT
 =============================================================
 
-Student: Engmusabumar
-Repository: SCM-Assignment
-Date: June 14, 2026
+Student Name : Musab Umar
+Reg Number   : CST/22/SWE/00849
+Repository   : SCM-Assignment
+Date         : June 14, 2026
 
 DESCRIPTION:
 ------------
 This repository contains the files for the Software Configuration
-Management and Maintenance Assignment.
+Management and Maintenance Assignment submitted by Musab Umar.
 
 FILES INCLUDED:
 ---------------
